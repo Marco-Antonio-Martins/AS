@@ -58,10 +58,16 @@ footer{
     bottom: 0px;
     width: 100%;
 }
-a{
+footer a{
     padding: 0 10px 0 0;
 }
-a img{
+footer a img{
     width: auto;
     height: 35px;
+}
+p a{
+    color: black;
+}
+p a:hover{
+    color: purple;
 }
